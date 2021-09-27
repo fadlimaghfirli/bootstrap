@@ -1,0 +1,23 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #fce4b7;
+}
+
+.jumbotron a {
+  padding: 5px;
+  color: salmon;
+  text-decoration: none;
+}
+
+.jumbotron a:hover {
+  color: white;
+  background-color: salmon;
+}
+
+#projects {
+  background-color: #fce4b7;
+}
+
+section {
+  padding-top: 6rem;
+}
